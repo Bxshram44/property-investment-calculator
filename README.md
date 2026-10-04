@@ -2,6 +2,10 @@
 
 A Python and Streamlit web application that allows users to analyse and compare potential property investments.
 
+## 🌐 Live Demo
+[Try the Property Investment Calculator] 
+https://property-investment-calculator-ee5lwvpvksiqvtdmnkfhq6.streamlit.app/
+
 I built this project to develop my Python programming skills while applying them to a real-world financial scenario. The calculator takes property, mortgage and expense information and calculates key investment metrics.
 
 ## Features
